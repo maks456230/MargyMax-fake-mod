@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="page_gutter">24dp</dimen>
+    <dimen name="card_inset">28dp</dimen>
+    <dimen name="display_size">48sp</dimen>
+</resources>

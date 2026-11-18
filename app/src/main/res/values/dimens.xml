@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="page_gutter">20dp</dimen>
+    <dimen name="card_inset">26dp</dimen>
+    <dimen name="card_vertical">28dp</dimen>
+    <dimen name="mark_size">48dp</dimen>
+    <dimen name="mark_to_text">38dp</dimen>
+    <dimen name="display_size">45sp</dimen>
+    <dimen name="card_max_width">532dp</dimen>
+    <dimen name="card_corner">36dp</dimen>
+</resources>

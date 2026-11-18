@@ -1,0 +1,19 @@
+<resources>
+    <style name="Theme.MargyMax.Base" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorSurface">@color/mm_surface</item>
+        <item name="colorOnSurface">@color/mm_on_surface</item>
+        <item name="colorPrimary">@color/mm_primary</item>
+        <item name="colorOnPrimary">@color/mm_on_primary</item>
+        <item name="colorPrimaryContainer">@color/mm_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/mm_on_primary_container</item>
+        <item name="colorTertiaryContainer">@color/mm_tertiary_container</item>
+        <item name="dynamicColorThemeOverlay">@style/ThemeOverlay.Material3.DynamicColors.DayNight</item>
+        <item name="android:windowBackground">?attr/colorSurface</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">?attr/colorSurface</item>
+    </style>
+    <style name="Theme.MargyMax" parent="Theme.MargyMax.Base" />
+</resources>

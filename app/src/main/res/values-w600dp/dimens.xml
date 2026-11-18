@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="card_inset">36dp</dimen>
+    <dimen name="display_size">57sp</dimen>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Margy Max</string>
+    <string name="message" translatable="false">макс иди нахуй</string>
+    <item type="id" name="quote" />
+    <item type="id" name="message_card" />
+</resources>

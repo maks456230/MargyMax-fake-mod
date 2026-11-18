@@ -1,0 +1,10 @@
+<resources>
+    <color name="mm_surface">#FDF8FD</color>
+    <color name="mm_on_surface">#1D1A20</color>
+    <color name="mm_primary">#634A93</color>
+    <color name="mm_on_primary">#FFFFFF</color>
+    <color name="mm_primary_container">#EBDDFF</color>
+    <color name="mm_on_primary_container">#241336</color>
+    <color name="mm_tertiary_container">#FFDBC9</color>
+    <color name="launcher_surface">#ECE1FF</color>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="card_vertical">21dp</dimen>
+    <dimen name="mark_size">42dp</dimen>
+    <dimen name="mark_to_text">20dp</dimen>
+</resources>
